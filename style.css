@@ -14,6 +14,7 @@ This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you have learned with others.
 
 magic_arms is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Lori--Add resources 5/9/2016
 
 */
 html {
@@ -220,6 +221,34 @@ img {
   line-height: 30px;
 }
 .leadership_bio blockquote p {
+  display: inline;
+}
+
+.resources {
+  padding: 40px 60px;
+  border-bottom: 1px #f0efee solid;
+}
+.resources img {
+  width: 248px;
+  margin: 0 auto;
+  display: block;
+}
+.resources h3 {
+  text-align: center;
+  color: #59c5cc;
+}
+.resources h4 {
+  text-align: center;
+  color: #59c5cc;
+  font-size: 15px;
+}
+.resources blockquote {
+  color: #346770;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+}
+.resources blockquote p {
   display: inline;
 }
 .advisory_board {
@@ -775,7 +804,11 @@ textarea {
   .leadership_bio {
     padding: 40px 0px;
   }
-  .drawn_circle_bkg {
+  
+.resources {
+    padding: 40px 0px;
+	}
+	  .drawn_circle_bkg {
     width: 150px;
     height: 156px;
     font-size: 14px;
@@ -885,6 +918,10 @@ textarea {
   .leadership_bio {
     padding: 40px 0px;
   }
+  
+.resources {
+    padding: 40px 0px;
+	}
   .logo {
     margin: 0 auto;
     float: none;
@@ -916,3 +953,4 @@ textarea {
   }
 }
 /*end of large screen   ----------- */
+
