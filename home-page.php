@@ -208,7 +208,7 @@ if( have_rows('nef_news_or_event_group', $news_events_page_id) ){
         </div><!--end of column *** --> 
 
         <div class="col-sm-6 news_image">
-          <img src="<?php echo($template_directory ); ?>/assets/img/news_cta_image.jpg"/>
+          <img src="<?php echo($template_directory ); ?>/assets/img/mn-cup-semifinalist.png"/>
         </div><!--end of column *** --> 
 
         <div class="clear"></div><!--end of clear *** -->
