@@ -14,7 +14,8 @@ $template_directory = get_bloginfo('template_directory');
       <div class="row-fluid standard_padding grey">
         <div class="col-sm-4">
             <h3>Contact Information</h3>
-            <p>Email: <a href="mailto:info@magicarms.org">info@magicarms.org</a><br/><br/>
+            <p>Email: <a href="mailto:info@magicarms.org">info@magicarms.org</a><br/>
+            <p>Phone: 763-785-9595</p><br/><br/>
             8560 Cottonwood St NW, #100<br/>
             Minneapolis, MN 55433</p>
         </div><!--end of column *** --> 
